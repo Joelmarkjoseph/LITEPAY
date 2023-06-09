@@ -1,0 +1,8 @@
+Hello {}
+Your Transaction is successful!
+Money has been Transferred from UID:{} to UID:{}
+Debited amount:{}
+Avl.Balance:{}
+Happy Litepay!
+
+for queries contact: joelmarkjoseph2@gmail.com
